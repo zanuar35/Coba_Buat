@@ -1,0 +1,11 @@
+
+3.	 Why do companies like their programmers to follow standard coding conventions? 
+4.	 What does Google’s Style Guide have to say about trailing whitespace?
+
+Jawab :
+3. Perusahaan menyukai programmer mereka untuk mengikuti konvensi pengkodean standar sehingga hasilnya program lebih mudah dipelihara 
+(pemeliharaan program berarti men-debug dan menyempurnakan program setelah dirilis ). Terlebih pada perusahaan  di mana program di-debug 
+dan ditingkatkan oleh lebih banyak orang. Dengan lebih banyak orang yang terlibat, ada kebutuhan yang lebih besar untuk memahami kode orang lain, 
+dan mematuhinya konvensi pengkodean standar dapat  membantu 
+
+4. Menurut Panduan Gaya Google "Semua kode harus dalam huruf kecil" kecuali jika untuk nilai dapat menggunakan huruf besar.
